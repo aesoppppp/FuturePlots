@@ -1,0 +1,54 @@
+---
+version: "1.2.2"
+
+prefix: "FuturePlots > "
+
+no.plotworld: "Es befindet sich keine Plotwelt auf dem Server."
+not.in.world: "Du befindest dich in keiner Plotwelt."
+not.in.plot: "Du befindest dich nicht auf deinem Plot."
+not.a.owner: "Diese Aktion kann nur der Plot Besitzer ausführen."
+
+plot.teleport: "Du wurdest zu deinem Plot teleportiert."
+plot.claim.already: "Dieses Plot wurde bereits beansprucht."
+plot.claim: "Du hast das Plot für dich beansprucht."
+plot.clear: "Das Plot wurde geleert."
+plot.delete: "Das Plot wurde gelöscht."
+plot.max: "Du hast bereits die maximale Anzahl von Plots erreicht."
+plot.enter.owned: "%1\n%2"
+plot.enter.free: "%1\nFreies Plot"
+plot.help.title: "FuturePlots Befehle:"
+plot.help.text: "- %1"
+plot.info.title: "- Plot Info -"
+plot.info.text: "Owner: %1\nID: %2\nHelfer: %3\nVerboten: %4\nMitglieder: %5"
+plot.homes.title: "Deine Plots:"
+plot.homes.text: "- %2 (%1)"
+plot.world.required: "Gebe den Welten Namen und die Plot Nummer an."
+plot.world.not.exists: "Diese Welt existiert nicht."
+plot.world.exists: "Diese Welt existiert bereits."
+plot.dispose: "Das Plot wurde freigegeben."
+
+helper.added: "Der Spieler %1 wurde als Helfer hinzugefügt."
+helper.removed: "Der Spieler %1 wurde als Helfer entfernt."
+helper.exists: "Der Spieler ist bereits ein Helfer des Plots."
+helper.not.exists: "Dieser Spieler ist kein Helfer auf deinem Plot."
+
+deny.added: "Der Spieler %1 wurde vom Plot verbannt."
+deny.removed: "Der Spieler %1 kann das Plot nun wieder betreten."
+deny.exists: "Der Spieler ist bereits vom Plot verbannt."
+deny.not.exists: "Dieser Spieler wurde nicht vom Plot verbannt."
+
+member.added: "Der Spieler %1 wurde als Mitglied hinzugefügt."
+member.removed: "Der Spieler %1 wurde als Mitglied entfernt."
+member.exists: "Der Spieler ist bereits ein Mitglied des Plots."
+member.not.exists: "Dieser Spieler ist kein Mitglied auf deinem Plot."
+
+generate.world.required: "Enter a world name."
+generate.world.exists: "This world already exists."
+generate.world.success: "World %1 is being generated..."
+
+has.no.plot: "Du besitzt keine Plots."
+has.no.plot.world: "Du besitzt kein Plot in dieser Welt."
+has.no.plot.number: "Du besitzt kein Plot mit der Nummer %1."
+
+economy.no.money: "Du besitzt nicht genügend Geld für diese Aktion."
+...

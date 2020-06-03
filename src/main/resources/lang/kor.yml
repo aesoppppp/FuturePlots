@@ -1,0 +1,55 @@
+---
+# Korean Translation - aesoppppp
+version: "1.2.2"
+
+prefix: "§7§l[§b땅 도우미§7] §7§l "
+
+no.plotworld: "서버에 땅이 있는 월드가 없습니다."
+not.in.world: "당신은 땅이 있는 월드에 있지 않습니다."
+not.in.plot: "당신은 땅에 있지 않습니다."
+not.a.owner: "이 행동은 오직 해당 땅의 소유자만 할 수 있습니다."
+
+plot.teleport: "당신이 소유한 땅으로 순간이동되었습니다."
+plot.claim.already: "이 땅은 이미 점유되었습니다."
+plot.claim: "성공적으로 땅을 구매하였습니다."
+plot.clear: "땅이 초기화되었습니다."
+plot.delete: "땅이 삭제되었습니다."
+plot.max: "이미 가질 수 있는 최대 땅의 개수를 넘으셨습니다."
+plot.enter.owned: "§l%1\n%2 의 땅"
+plot.enter.free: "§a%1\n구매 가능한 땅"
+plot.help.title: "땅 관련 명령어:"
+plot.help.text: "- %1"
+plot.info.title: "- 땅 정보 -"
+plot.info.text: "소유자: §a%1§f\nID: §l§7%2§f§r\n도우미: %3\n금지된 플레이어:§c %4\n§f구성원: %5"
+plot.homes.title: "당신의 땅:"
+plot.homes.text: "- %2 (%1)"
+plot.world.required: "당신의 땅에 가려면 월드 이름과 땅 번호를 입력하세요."
+plot.world.not.exists: "이 월드는 존재하지 않습니다."
+plot.world.exists: "이 월드는 이미 존재합니다."
+plot.dispose: "땅을 내놓았습니다. 이제 누구나 이 땅을 구매할 수 있습니다."
+
+helper.added: "도우미 %1(이)가 당신의 땅에 추가되었습니다."
+helper.removed: "도우미 %1(이)가 당신의 땅에서 제거되었습니다."
+helper.exists: "해당 플레이어는 이미 이 땅의 도우미입니다."
+helper.not.exists: "해당 플레이어는 이 땅의 도우미가 아닙니다."
+
+deny.added: "플레이어 %1의 땅의 출입이 금지되었습니다."
+deny.removed: "플레이어 %1이 당신의 땅에 다시 들어갈 수 있습니다."
+deny.exists: "플레이어는 이미 당신의 땅에서 출입이 금지되어 있습니다."
+deny.not.exists: "해당 플레이어는 당신의 땅에서 출입이 금지되지 않았습니다."
+
+member.added: "플레이어 %1이 멤버로 추가되었습니다."
+member.removed: "플레이어 %1이 멤버에서 삭제되었습니다."
+member.exists: "플레이어가 이미 이 땅의 멤버입니다."
+member.not.exists: "해당 플레이어는 이 땅의 구성원이 아닙니다."
+
+generate.world.required: "월드 이름을 입력하세요."
+generate.world.exists: "이 월드는 이미 존재합니다."
+generate.world.success: "월드 %1(이)가 생성되고 있습니다..."
+
+has.no.plot: "당신은 소유한 땅이 없습니다."
+has.no.plot.world: "이 월드에는 당신의 땅이 없습니다."
+has.no.plot.number: "당신은 %1번 땅을 소유하고 있지 않습니다."
+
+economy.no.money: "이 땅을 구매할 충분한 돈이 없습니다."
+...

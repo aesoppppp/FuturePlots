@@ -1,0 +1,54 @@
+---
+version: "1.2.2"
+
+prefix: "FuturePlots > "
+
+no.plotworld: "There is no plot world on the server."
+not.in.world: "You are not in a plot world."
+not.in.plot: "You're not on a plot."
+not.a.owner: "This action can only be performed as owner of the plot."
+
+plot.teleport: "You were teleported to your plot."
+plot.claim.already: "This plot has already been claimed."
+plot.claim: "You just claimed the plot."
+plot.clear: "The plot has been cleared."
+plot.delete: "The plot has been deleted."
+plot.max: "You have already reached the maximum number of plots."
+plot.enter.owned: "%1\n%2"
+plot.enter.free: "%1\nFree plot"
+plot.help.title: "FuturePlots Commands:"
+plot.help.text: "- %1"
+plot.info.title: "- Plot Info -"
+plot.info.text: "Owner: %1\nID: %2\nHelper: %3\nDenied: %4\nMembers: %5"
+plot.homes.title: "Your plots:"
+plot.homes.text: "- %2 (%1)"
+plot.world.required: "Enter a world name and the plot number to get to your plot."
+plot.world.not.exists: "This world does not exist."
+plot.world.exists: "This world already exists."
+plot.dispose: "The plot has been unlocked."
+
+helper.added: "The helper %1 was added to the plot."
+helper.removed: "The helper %1 was removed to the plot."
+helper.exists: "This player is already helper of the plot."
+helper.not.exists: "This player is no helper on your plot."
+
+deny.added: "The player %1 was banned from the plot."
+deny.removed: "The player %1 can now enter the plot again."
+deny.exists: "The player is already banned from the plot."
+deny.not.exists: "This player was not banned from the plot."
+
+member.added: "The member %1 was added to the plot."
+member.removed: "The member %1 was removed to the plot."
+member.exists: "This player is already member of the plot."
+member.not.exists: "This player is no member on your plot."
+
+generate.world.required: "Enter a world name."
+generate.world.exists: "This world already exists."
+generate.world.success: "World %1 is being generated..."
+
+has.no.plot: "You have no plot."
+has.no.plot.world: "You have no plot in this world."
+has.no.plot.number: "You do not own a plot with the number %1."
+
+economy.no.money: "You do not have enough money for this action."
+...

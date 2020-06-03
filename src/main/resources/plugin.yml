@@ -1,0 +1,16 @@
+name: FuturePlots
+main: tim03we.futureplots.FuturePlots
+api: 1.0.9
+author: tim03we
+version: 1.2.7.3
+description: A NukkitX Plugin
+softdepend:
+  - EconomyAPI
+
+permissions:
+  futureplots.command.generate:
+    description: "You can generate plot world with this permission."
+    default: op
+  futureplots.plots.unlimited:
+    description: "Claim as many plots as you want."
+    default: op
